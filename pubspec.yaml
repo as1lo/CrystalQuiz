@@ -1,0 +1,71 @@
+name: quiz
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    
+    - lib/assets/images/festa.png
+    - lib/assets/images/esporte.png
+    - lib/assets/images/neve.png
+    - lib/assets/images/amigos.png
+    - lib/assets/images/define.png
+    - lib/assets/images/lutar.png
+    - lib/assets/images/trilha.png
+    - lib/assets/images/diamantes.png
+    - lib/assets/images/fusao.gif
+    - lib/assets/images/sentimento.png
+    - lib/assets/images/ametista.png
+    - lib/assets/images/fume.png
+    - lib/assets/images/armas.gif
+    - lib/assets/images/comida.gif
+    - lib/assets/images/frente.png
+    - lib/assets/images/crystal.png
+    - lib/assets/images/logo.png
+    - lib/assets/images/pearl.png
+    - lib/assets/images/garnet_ (1).png
+    - lib/assets/images/steven (1).png
+    - lib/assets/images/obsidian.png
+    - lib/assets/images/alexandrite.png
+    - lib/assets/images/opal.png
+    - lib/assets/images/rainbow.png
+    - lib/assets/images/drusa.png
+    - lib/assets/images/sardonyxx.png
+    - lib/assets/images/sugilite.png
+    - lib/assets/images/sunstone.png
+    - lib/assets/images/peridot.png
+    - lib/assets/images/lapis.png
+    - lib/assets/images/bismuto.png
+  #  - images/a_dot_ham.jpeg
+  fonts:
+   - family: Roboto
+     fonts:
+       - asset: lib/assets/fonts/Roboto-Bold.ttf
+   - family: Dunkin
+     fonts:
+       - asset: lib/assets/fonts/Dunkin.otf
+   - family: Hiruko
+     fonts:
+       - asset: lib/assets/fonts/HirukoBlackAlternate.ttf
+      # - asset: lib/assets/fonts/Roboto-Medium.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

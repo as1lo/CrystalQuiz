@@ -1,0 +1,1 @@
+ C:\\CrystalQuiz\\.dart_tool\\flutter_build\\dd51693777df8c7b3e9eda97e26c64a9\\native_assets.yaml: 
